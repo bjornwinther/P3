@@ -3,7 +3,7 @@ import cv2
 from random import randint
 import time
 
-#hello from anna
+#hello from anna 
 
 # running live feed
 cap = cv2.VideoCapture(1)
