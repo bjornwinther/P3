@@ -4,6 +4,7 @@ from random import randint
 import time
 
 #hello from anna 
+hihihi
 
 # running live feed
 cap = cv2.VideoCapture(1)
